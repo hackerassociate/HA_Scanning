@@ -6,14 +6,12 @@
 **Step-1**
 ***Navigate to Desktop***
 
->cd Desktop 
->sudo git clone https://github.com/hackerassociate/HA_Scanning.git
+>cd Desktop ; sudo git clone https://github.com/hackerassociate/HA_Scanning.git
 
 **Step-2**
 ***Navigate to Folder***
 
->cd HA_Scanning/
->ls
+>cd HA_Scanning ; ls
 
 **Step-3**
 ***Permission***
