@@ -5,9 +5,9 @@ echo -e "\n
 -----------------------------------------------------------------------------------------------------
 			    Welcome to Offensive IOT by Harshad!
                             
-                Harsh BOT Ready for scanning. 
+                	    Harsh BOT Ready for scanning. 
                             
-                Provide Infra/Embedded System IP  for Scanning.
+                            Provide Infra/Embedded System IP  for Scanning.
 
 			    #Author = Harshad Shah
 -----------------------------------------------------------------------------------------------------"
